@@ -9,9 +9,8 @@ This repository contains two key machine learning projects demonstrating profici
    - [Regression Salary Prediction](#regression-salary-prediction)
 2. [Technologies Used](#technologies-used)
 3. [Skills Demonstrated](#skills-demonstrated)
-4. [Setup Instructions](#setup-instructions)
-5. [Examples](#examples)
-6. [Project Reports](#project-reports)
+4. [Examples](#examples)
+5. [Project Reports](#project-reports)
 
 ## Projects
 
@@ -42,21 +41,6 @@ This repository contains two key machine learning projects demonstrating profici
 - Regression analysis for predictive modeling.
 - Data preprocessing and feature engineering.
 - Advanced Python programming and use of ML libraries.
-
-## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/nugets241/AI-Machine-Learning-Projects-2023.git
-
-2. Navigate to the project directory:
-   ```sh
-   cd AI-Machine-Learning-Projects-2023
-   ```
-3. Install the required packages:
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. Follow the instructions in the respective project directories to run the code.
 
 ## Project Reports
 Each project directory contains a PDF file with a detailed project report explaining the project, including what was done, screenshots, and other relevant information.
